@@ -15,6 +15,7 @@ Vue.filter('toUSD', function (value) {
           <div class="modal-body">
             <slot></slot>       
           </div>
+          
           <div class="modal-footer">
           <slot name="footer"></slot>
           </div>
