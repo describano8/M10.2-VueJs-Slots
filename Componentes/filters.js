@@ -1,5 +1,5 @@
 Vue.filter('toUSD', function (value) {
-    return `$${value *  1.23} `;
+    return `$${value *  1.17} `;
   });
   
   Vue.component('modal-bootstrap', {
